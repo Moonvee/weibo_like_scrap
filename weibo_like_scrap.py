@@ -2,9 +2,8 @@
 #'''
 #@File    :   weibo_like_scrap
 #@Time    :   2021-12-21
-#@Author  :   Moonvee 
+#@Author  :   test 
 #@Version :   1.0
-#@Contact :   moonvee@outlook.com
 #@License :   (C)Copyright 2021, Moonvee
 #@Desc    :   A weibo spider.
 
